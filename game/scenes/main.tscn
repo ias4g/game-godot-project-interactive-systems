@@ -1,0 +1,32 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://scenes/trash.tscn" type="PackedScene" id=1]
+[ext_resource path="res://scenes/object_spawner.tscn" type="PackedScene" id=2]
+[ext_resource path="res://scripts/txtCount.gd" type="Script" id=3]
+[ext_resource path="res://sprites/bg_not_bin_640x.png" type="Texture" id=4]
+
+[node name="main" type="Node"]
+
+[node name="trash" parent="." instance=ExtResource( 1 )]
+position = Vector2( 325, 390 )
+
+[node name="object_spawner" parent="." instance=ExtResource( 2 )]
+
+[node name="txtCount" type="Label" parent="."]
+margin_left = 588.0
+margin_top = 21.0
+margin_right = 628.0
+margin_bottom = 35.0
+script = ExtResource( 3 )
+
+[node name="Camera2D" type="Camera2D" parent="."]
+anchor_mode = 0
+current = true
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Sprite" type="Sprite" parent="ParallaxBackground/ParallaxLayer"]
+position = Vector2( 320, 240 )
+texture = ExtResource( 4 )

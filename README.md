@@ -19,6 +19,11 @@ O CO é um jogo e uma maneira de promover a gestão responsável de resíduos, e
 
 Entrar no [Canal de Discurções](https://github.com/Ias4g/game-godot-project-interactive-systems/discussions/7) e ler as instruções contidas lá, você também pode comentar, deixar sugestões e muito mais.
 
-# Colaboradores
-| [<img src="https://github.com/ias4g.png" width=115><br><sub>Izael Silva</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
+# 2. ✔️ Técnicas e tecnologias ultilizadas
+* `GDScript`
+* `Godot Engine`
+* `Paradigma de programação orientado a objetos`
+
+# 3. Colaboradores
+| [<img src="https://github.com/AlannChris.png" width=115><br><sub>Alan Christian</sub>](https://github.com/AlannChris) | [<img src="https://github.com/Deyzy.png" width=115><br><sub>Deise Santos</sub>](https://github.com/Deyzy) | [<img src="https://github.com/EverssonBela.png" width=115><br><sub>Eversson Santana</sub>](https://github.com/EverssonBela) | [<img src="https://github.com/ias4g.png" width=115><br><sub>Izael Silva</sub>](https://github.com/ias4g) | [<img src="https://github.com/PauloRobertoFilhoo.png" width=115><br><sub>Paulo Roberto Filho</sub>](https://github.com/PauloRobertoFilhoo) | [<img src="https://github.com/studentias.png" width=115><br><sub>Izael student</sub>](https://github.com/studentias) |
+| :---: | :---: | :---: | :---: | :---: | :---: |

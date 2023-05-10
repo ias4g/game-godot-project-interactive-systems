@@ -1,12 +1,24 @@
+<div align="center">
+
+![banner](.github/Logo_457x.png)
+
 # CO | GAME DE COLETA SELETIVA
- O CO é um jogo e uma maneira de promover a gestão responsável de resíduos, enquanto fornece uma experiência de jogo divertida.
-<hr>
+
+O CO é um jogo e uma maneira de promover a gestão responsável de resíduos, enquanto fornece uma experiência de jogo divertida.
+</div>
+
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
+<h4 align="center">    
+ :construction:  Projeto em construção  :construction:
+</h4>
+
 <br>
 
-### Instruções de como contrubuir com o projeto!
-1. Criar uma conta no [GitHub](https://github.com/signup), caso não tenha.
-2. Instala o [Git](https://git-scm.com/downloads) de acordo com seu sistema operacional.
-3. Depois de intalar o Git, a bra o `Git Bash`, ele é um termnal que foi instalado junto com o `Git`.
-4. Com o `Git Bash` aberto rada estes comando para configurar o ***NOME*** e ***EMAIL*** do usuário
+# 1. Instruções de como contrubuir com o projeto!
 
-*Teste*
+Entrar no [Canal de Discurções](https://github.com/Ias4g/game-godot-project-interactive-systems/discussions/7) e ler as instruções contidas lá, você também pode comentar, deixar sugestões e muito mais.
+
+# Colaboradores
+| [<img src="https://github.com/ias4g.png" width=115><br><sub>Izael Silva</sub>](https://github.com/camilafernanda) |  [<img src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |

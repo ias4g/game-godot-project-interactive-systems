@@ -15,7 +15,7 @@ O CO é um jogo e uma maneira de promover a gestão responsável de resíduos, e
 
 <br>
 
-# 1. Instruções de como contrubuir com o projeto!
+# 1. Instruções de como contribuir com o projeto!
 
 Entrar no [Canal de Discurções](https://github.com/Ias4g/game-godot-project-interactive-systems/discussions/7) e ler as instruções contidas lá, você também pode comentar, deixar sugestões e muito mais.
 

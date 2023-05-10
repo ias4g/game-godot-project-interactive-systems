@@ -27,3 +27,17 @@ Entrar no [Canal de Discurções](https://github.com/Ias4g/game-godot-project-in
 # 3. Colaboradores
 | [<img src="https://github.com/AlannChris.png" width=115><br><sub>Alan Christian</sub>](https://github.com/AlannChris) | [<img src="https://github.com/Deyzy.png" width=115><br><sub>Deise Santos</sub>](https://github.com/Deyzy) | [<img src="https://github.com/EverssonBela.png" width=115><br><sub>Eversson Santana</sub>](https://github.com/EverssonBela) | [<img src="https://github.com/ias4g.png" width=115><br><sub>Izael Silva</sub>](https://github.com/ias4g) | [<img src="https://github.com/PauloRobertoFilhoo.png" width=115><br><sub>Paulo Roberto Filho</sub>](https://github.com/PauloRobertoFilhoo) | [<img src="https://github.com/studentias.png" width=115><br><sub>Izael student</sub>](https://github.com/studentias) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gabriel 
